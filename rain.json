@@ -1,0 +1,11 @@
+{
+    "density": 100,
+    "min_droplet_size": 5,
+    "max_droplet_size": 15,
+    "min_speed": 2.0,
+    "max_speed": 5.0,
+    "min_angle": -5,
+    "max_angle": 5,
+    "width":600,
+    "height": 600
+}
